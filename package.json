@@ -1,0 +1,11 @@
+{
+  "name": "task_manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "GyAlves <gyasminassuncao@uni9.edu.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
